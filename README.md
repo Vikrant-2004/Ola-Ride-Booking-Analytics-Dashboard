@@ -1,7 +1,7 @@
 # Ola-Ride-Booking-Analytics-Dashboard
 
 Project Title
-🚕 Ola Ride Booking Analytics Dashboard
+Ola Ride Booking Analytics Dashboard
 
 Description
 An end-to-end Power BI dashboard analyzing 80,000+ Ola ride bookings to uncover trends in revenue, cancellations, vehicle performance, and customer/driver ratings — built to support data-driven decisions around ride operations and revenue optimization.
