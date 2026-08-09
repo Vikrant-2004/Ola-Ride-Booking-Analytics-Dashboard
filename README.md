@@ -18,11 +18,15 @@ Ola ride booking dataset (March 2026) — 80K+ records covering bookings, vehicl
 
 **Features :**
 
-Overall Page — 80K total bookings, ₹20.14M total booking value, booking status breakdown (62.11% success, 28.07% cancelled), daily ride volume trend
-Vehicle Type Page — booking value, success value, avg. distance, and total distance across 7 vehicle categories (Sedan, SUV, Auto, Bike, E-Bike, etc.)
-Revenue Page — revenue by payment method (Cash/UPI dominate), daily ride distance distribution, top customers by booking value
-Cancellation Page — 28.07% cancellation rate broken into cancellation reasons by both customer and driver, with root-cause pie charts
-Ratings Page — average driver and customer ratings (~4.0) segmented by vehicle type
+Overall Page — 80K total bookings, ₹20.14M total booking value, booking status breakdown (62.11% success, 28.07% cancelled), daily ride volume trend.
+
+Vehicle Type Page — booking value, success value, avg. distance, and total distance across 7 vehicle categories (Sedan, SUV, Auto, Bike, E-Bike, etc.).
+
+Revenue Page — revenue by payment method (Cash/UPI dominate), daily ride distance distribution, top customers by booking value.
+
+Cancellation Page — 28.07% cancellation rate broken into cancellation reasons by both customer and driver, with root-cause pie charts.
+
+Ratings Page — average driver and customer ratings (~4.0) segmented by vehicle type.
 
 **Screenshot :**
 
