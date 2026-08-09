@@ -24,4 +24,4 @@ Overall Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dash
 Vehicle Type Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Vehicle_Type.png
 Revenue Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Revenue.png
 Cancellation Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Cancellation.png
-Ratings Page —
+Ratings Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Ratings.png
