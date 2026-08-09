@@ -22,6 +22,6 @@ Ratings Page — average driver and customer ratings (~4.0) segmented by vehicle
 Screenshot
 Overall Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Overall.png
 Vehicle Type Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Vehicle_Type.png
-Revenue Page — 
+Revenue Page — https://github.com/Vikrant-2004/Ola-Ride-Booking-Analytics-Dashboard/blob/main/Screenshot%20Revenue.png
 Cancellation Page — 
 Ratings Page —
